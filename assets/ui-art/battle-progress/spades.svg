@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="64" viewBox="0 0 192 64">
+  <defs>
+    <path id="form" d="M32 5 40 14 51 25 57 34 57 41 53 46 45 48 37 42 38 50 46 57H18l8-7 1-8-8 6-8-2-4-5-1-7 7-9 11-11Z"/>
+    <g id="seal">
+      <use xlink:href="#form" fill="#171017" stroke="#171017" stroke-width="4.5" stroke-linejoin="round"/>
+      <use xlink:href="#form" fill="#36333b" stroke="#a4957e" stroke-width="2.3" stroke-linejoin="round"/>
+      <path d="M32 10 15 30 11 39 20 42 25 37 20 35ZM43 23l10 13-2 6-6 1-5-6 8 1Z" fill="#595158"/>
+      <path d="m12 35 19-23m3 5 4 10-6 8 1 15 4 3H27m13-16 6 6 5-3m-33-8 3-5m-3 10 5-6m19-6 3 6" fill="none" stroke="#a49176" stroke-width="1.45" stroke-linejoin="bevel"/>
+    </g>
+    <clipPath id="left"><polygon points="0,0 38,0 29,18 37,25 25,36 33,43 24,64 0,64"/></clipPath>
+    <clipPath id="right"><polygon points="64,0 64,64 24,64 33,43 25,36 37,25 29,18 38,0"/></clipPath>
+  </defs>
+  <use xlink:href="#seal"/>
+  <g transform="translate(64 0)">
+    <g clip-path="url(#left)"><use xlink:href="#seal"/></g>
+  </g>
+  <g transform="translate(128 0)">
+    <g clip-path="url(#right)"><use xlink:href="#seal"/></g>
+  </g>
+</svg>

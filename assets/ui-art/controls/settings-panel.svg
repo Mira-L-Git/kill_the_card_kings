@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <defs>
+    <linearGradient id="plum" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop stop-color="#221624"/>
+      <stop offset="1" stop-color="#160f19"/>
+    </linearGradient>
+  </defs>
+  <path d="M34 8h652l26 26v892l-26 26H34L8 926V34Z" fill="#100c14" stroke="#100c14" stroke-width="12"/>
+  <path d="M34 8h652l26 26v892l-26 26H34L8 926V34Z" fill="url(#plum)" stroke="#977654" stroke-width="3"/>
+  <path d="M40 22h640l18 18v880l-18 18H40l-18-18V40Z" fill="none" stroke="#533b3b" stroke-width="2"/>
+  <path d="M22 66V40l18-18h26m588 0h26l18 18v26M22 894v26l18 18h26m588 0h26l18-18v-26" fill="none" stroke="#947053" stroke-width="2"/>
+  <path d="M112 128h217m62 0h217M64 515h592" stroke="#664849" stroke-width="2"/>
+  <path d="m360 121 9 7-9 7-9-7Z" fill="#8f694d"/>
+</svg>
