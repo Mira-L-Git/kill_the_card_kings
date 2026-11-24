@@ -6,10 +6,14 @@ A single-player strategy game played with a deck of cards. Fight twelve royal op
 
 ![Battle screen showing enemy stats, the player’s hand, and the play preview](screenshots/battle.jpg)
 
-## Run the game
+## Download and play
+
+[Download the portable Windows 64-bit build](https://github.com/Mira-L-Git/kill_the_card_kings/releases/latest/download/kill_the_card_kings-windows-x86_64.zip). Extract the whole ZIP, then double-click `KillTheCardKings.exe`. Keep the `.exe` and `.pck` in the same folder. The game runs without installing Godot, and its menus are in Simplified Chinese.
+
+## Run from source
 
 1. [Download the project ZIP](https://github.com/Mira-L-Git/kill_the_card_kings/archive/refs/heads/main.zip) and extract it.
-2. Open `project.godot` in Godot 4.7.2 and press `F5` to launch. The game menus are in Simplified Chinese.
+2. Open `project.godot` in Godot 4.7.2 and press `F5` to launch.
 
 ## Quick tutorial
 

@@ -6,7 +6,11 @@
 
 ![战斗界面，可见牌王属性、手牌和出牌预览](docs/screenshots/battle.jpg)
 
-## 怎么启动
+## 下载游玩
+
+[下载 Windows 64 位免安装版](https://github.com/Mira-L-Git/kill_the_card_kings/releases/latest/download/kill_the_card_kings-windows-x86_64.zip)。解压整个 ZIP，然后双击 `KillTheCardKings.exe`。保持 `.exe` 和 `.pck` 在同一目录，直接运行即可，无需安装 Godot。
+
+## 从源码运行
 
 1. [下载项目 ZIP](https://github.com/Mira-L-Git/kill_the_card_kings/archive/refs/heads/main.zip) 并解压。
 2. 用 Godot 4.7.2 导入解压后的 `project.godot`，按 `F5` 运行。
